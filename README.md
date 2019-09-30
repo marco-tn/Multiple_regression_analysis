@@ -1,2 +1,2 @@
 # Multiple_regression_analysis
-Multiple_regression_analysis in R
+Multiple regression analysis in R
